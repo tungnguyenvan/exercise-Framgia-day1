@@ -1,0 +1,48 @@
+*{
+  padding: 0px;
+  margin: 0px;
+  font-size: 30px;
+}
+.content{
+  padding: 20px;
+  width: 450px;
+  margin: 20px auto;
+  text-align: center;
+  background: #cc00cc;
+  border: 3px solid #ffb3ff;
+  border-radius: 10px;
+  color: #ffffff;
+}
+.content b h1{
+  background: #e60073;
+  padding: 10px;
+  border-radius: 10px;
+  text-align: center;
+  font-size: 50px;
+
+}
+.content p{
+  font-size: 50px;
+}
+.row{
+  display: block;
+  margin-top: 10px;
+}
+
+.row input{
+  width: 200px;
+}
+
+.row select{
+  margin-left: 100px;
+  width: 204px;
+}
+.firstNumber{
+  margin-top: 30px;
+  margin-left: 32px;
+}
+.button{
+  background: #e60073;
+  color: #ffffff;
+  border-radius: 10px;
+}
